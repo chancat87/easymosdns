@@ -345,7 +345,7 @@ chmod +x /etc/mosdns/tools/config-reset
 - 配置文件相关问题，请查阅 [Mosdns-Wiki](https://irine-sistiana.gitbook.io/mosdns-wiki/)
 <br />
 
-## 如何支持作者
+#### 如何支持作者
 [前往打赏](https://afdian.net/a/maplecool)
 
 ## Contact Us
